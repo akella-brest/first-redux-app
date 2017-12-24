@@ -35,6 +35,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/reducers/tracks.js" />
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Artsiom-PC\AppData\Roaming\Subversion</configuration>
   </component>
