@@ -1,6 +1,4 @@
-const initialState = [
-    '1 tracks'
-];
+const initialState = [];
 
 export default function playList(state = initialState, action) {
     if (action.type === 'ADD_TEXT') {
